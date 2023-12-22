@@ -1,0 +1,4 @@
+Jurgen,Halili,jurgen@email,jurgen123,0.0,0.0
+Indrit,Vani,indrit@email,vani123,0.0,0.0
+Kozak,Braci,kozak@email,megalluks,800.0,52.0
+Arjan,konomi,arjan@email,arjan123,0.0,0.0
